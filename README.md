@@ -2,6 +2,8 @@
 ----------
 Thaís Ribeiro Asfur
 
+<img align="right" alt="gato" height="190" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQzZXdzOGx0d3ZzZnQ4cTJlMWIzazZqZHYxeGZneDZvbzBzeGJrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif">
+
 Fiap - ADS
 ----------
 
